@@ -18,7 +18,7 @@ MyGPT lets you chat with Google's Gemini AI model through a clean, user-friendly
 
 1. Clone the repo:
    ```
-   git clone https://github.com/yourusername/mygpt.git
+   git clone https://github.com/koushik369mondal/mygpt.git
    cd mygpt
    ```
 
